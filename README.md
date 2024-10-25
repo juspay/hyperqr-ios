@@ -1,2 +1,3 @@
-# hyperqr-ios
-Swift package manager version of HyperQR
+# HyperQR
+
+SDK to handle native functionality for QR Code.
