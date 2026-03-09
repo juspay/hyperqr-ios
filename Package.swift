@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperQR",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.6/HyperQR.zip",
-            checksum: "ffbf2005aeea9075aa97ea33f648a8269097b4055d26672b6b613c88db366f94"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.6.1/HyperQR.zip",
+            checksum: "020dc24aee9247ed285ce176524744738bd73c90a7af9507066f54f1810b815d"
         )
     ]
 )
